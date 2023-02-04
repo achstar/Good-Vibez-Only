@@ -13,4 +13,9 @@ class Color(models.Model):
 
     def __str__(self):
         return self.text
-        
+    
+class URL(models.Model):
+    url = models.CharField(max_length=200)
+    def __str__(self):
+        return self.url
+           
