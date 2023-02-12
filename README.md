@@ -1,2 +1,2 @@
 # Good-Vibez-Only
-good vibes give you wings
+Outputs a color describing a song given a spotify link input. Uses Django (Python, HTML) and SpotiPy library.
